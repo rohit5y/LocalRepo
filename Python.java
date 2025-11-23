@@ -1,6 +1,7 @@
 Class Python{
   public class void main(String args[]){
-    System.out.println("Sack");
+    System.out.println("Hello");
+    System.out.println("Hello");
 
 
   }
